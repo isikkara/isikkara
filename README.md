@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Işık!
 - 👀 I’m interested in making products that stick.
 - 🌱 Currently learning so many things about agri-tech.
-- 💞️ We can talk about product management with each other.
+- 💞️ We can talk about product management.
 - 📫 You can reach me at isik.kara@doktar.com!
 
 <!---
